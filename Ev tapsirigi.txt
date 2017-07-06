@@ -1,0 +1,9 @@
+1.Assemble
+
+Daha cox cihazlari islemesi ucun yazilan primitiv bir dildir. Her bir emeliyat ucun kod yazmaq lazim gelir. diger programlama dillerine nisbete her bir emeliyat ucun kod yazmaginiz gerekdiyi ucun kod setirleri daha uzun ve qarmasiq olur. cox suretli isleyir. istifade yerleri: cihazlarin driverlarinda, makinalarin isletim sistemlerine ve s.
+
+2. C
+hemen hemen her bir programi C de yazmaq mumkundur en kicik programdan en gelismis ve genis programlara kimi.  istifade yerleri emeliyat sistemlerinin yazilmasi, modern programlarin yazilmasi driverlerin yazilmasi ve s. 
+
+3. ASP.net 
+ASP.net dinamik saytlarin ve web applikasiyalarin yaratmaq ucun istifade olunan libarary(kitabxanadir). daha cox C# asp.net liberisini istifade edir. Microsoftundur.
